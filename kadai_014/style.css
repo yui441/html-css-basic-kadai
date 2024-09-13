@@ -1,4 +1,4 @@
-body {
+html{
     font-family:"Arial", "Meiryo", sans-serif ;
     font-size: 20px;
     text-align: center;
@@ -9,9 +9,10 @@ h1{
       font-optical-sizing: auto;
       font-weight: weight;
       font-style: normal;
-      font-size: 2em;
+      font-size: 2rem;
       letter-spacing: 1.2em;
       text-shadow: 1px 2px 3px #808080;
+      text-align: center;
 
 }
 
