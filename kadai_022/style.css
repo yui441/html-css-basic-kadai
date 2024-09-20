@@ -22,7 +22,7 @@ main{
 
 #parent{
     display: flex;
-    align-content: space-between;
+    justify-content: space-around;
 }
 
 .contents{
@@ -51,7 +51,7 @@ p:nth-child(3)::first-letter{
     color: rgb(97, 206, 249);
 }
 
-.contents{
+.contents img{
     margin: 10px 0;
     width: 70%;
 }
